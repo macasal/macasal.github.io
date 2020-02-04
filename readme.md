@@ -1,73 +1,16 @@
-/* ------------------------------------------------------
-Template Name: Alime - Photography HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
-Version: 1.0.0
-Last Update: Feb 22, 2019
------------------------------------------------------ */
+<img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
 
-/* --------------------------------
-To start 'Gulp' => npm run start
--------------------------------- */
+# Fimbo ![GitHub stars](https://img.shields.io/github/stars/imfunniee/fimbo.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/imfunniee/fimbo.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/imfunniee/fimbo.svg?style=popout-square) 
 
-File Structure:
-alime/
-└── src/
-    ├── css/
-    │   ├── default-assets/
-    │   ├── fonts/
-    │   ├── animate.css
-    │   ├── bootstrap.min.css
-    │   ├── font-awesome.min.css
-    │   ├── magnific-popup.css
-    │   ├── nice-select.css
-    │   ├── owl.carousel.min.css
-    │   ├── style.css
-    ├── fonts/
-    ├── img/
-    │   ├── bg-img/
-    │   ├── core-img/
-    ├── js/
-    │   ├── default-assets/
-    │   ├── alime.bundle.js
-    │   ├── bootstrap.min.js
-    │   ├── imagesloaded.pkgd.min.js
-    │   ├── isotope.pkgd.min.js
-    │   ├── jarallax-video.min.js
-    │   ├── jarallax.min.js
-    │   ├── jquery.countdown.min.js
-    │   ├── jquery.counterup.min.js
-    │   ├── jquery.easing.min.js
-    │   ├── jquery.magnific-popup.min.js
-    │   ├── jquery.min.js
-    │   ├── owl.carousel.min.js
-    │   ├── popper.min.js
-    │   ├── waypoints.min.js
-    │   ├── wow.min.js
-    ├── scss/
-    │   ├── mixins/
-    │   ├── utilities/
-    │   ├── about.scss
-    │   ├── backtotop.scss
-    │   ├── blog.scss
-    │   ├── breadcrumb.scss
-    │   ├── buttons.scss
-    │   ├── contact.scss
-    │   ├── follow.scss
-    │   ├── footer.scss
-    │   ├── gallery.scss
-    │   ├── header.scss
-    │   ├── heading.scss
-    │   ├── hero.scss
-    │   ├── preloader.scss
-    │   ├── reboot.scss
-    │   ├── spacing.scss
-    │   ├── style.scss
-    ├── about.html
-    ├── blog.html
-    ├── contact.html
-    ├── gallery.html
-    ├── index.html
-    ├── single-blog.html
-    ├── style.css
-    ├── style.css.map
+### Free to use Portfolio Templates
+
+See them in action [here](https://imfunniee.github.io/fimbo)
+
+Everyone needs a website to express themselves so i made free website templates. All you need to do is download them and customize them according to your need.
+
+Have Fun. 😄
+
+
+### Add your template
+
+If you have a template you want to be on this repo create a PR
